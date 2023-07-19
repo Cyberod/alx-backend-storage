@@ -1,0 +1,1 @@
+# ALX redis, i am exceited to read about redis so after doing the assigemnt Redis is basicly an SDK that gives you lower level controll of your cashing system.. it also acts as a No Sql database
